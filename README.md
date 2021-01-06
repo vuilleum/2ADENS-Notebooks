@@ -10,4 +10,4 @@ Ceci va ouvrir une page sur votre navigateur, avec une liste des notebooks.
 
 ## Version interactive
 
-Il est aussi possible de lancer ces notebooks sur un serveur distant grâce à My Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vuilleum/2ADENS-notebooks/master)
+Il est aussi possible de lancer ces notebooks sur un serveur distant grâce à My Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vuilleum/2ADENS-notebooks/main)
